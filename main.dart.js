@@ -46588,7 +46588,7 @@ return A.A(B.l,A.A(s,A.v(J.cW(a.b),s,s,s,s,$.Q(),s,s,s),B.f,s,s,s,s,s,s,s,new A.
 $S:23}
 A.NR.prototype={
 N(a){var s=null
-return new A.Bs(A.A(s,B.a4g,B.f,s,s,B.IG,s,s,s,s,s,s,s,s),"Snip Solutions",!1,s)}}
+return new A.Bs(A.A(s,B.a4g,B.f,s,s,B.II,s,s,s,s,s,s,s,s),"Snip Solutions",!1,s)}}
 A.v6.prototype={
 gzj(){return this.a},
 gAo(a){return this.b},
@@ -46726,7 +46726,7 @@ A.A8.prototype={
 ac(){return new A.UD(B.k)}}
 A.UD.prototype={
 N(a){var s=null,r=t.p
-return new A.aV(B.aF,A.hn(A.bm(A.a([new A.aV(B.aF,A.b_(A.a([A.b_(A.a([A.v("Group: ",s,s,s,s,$.bR().aT(B.z),s,s,s),A.v("Everyone",s,s,s,s,$.bR().aT(B.y),s,s,s)],r),B.a1,B.o,B.n,s),new A.dc(1,B.aB,A.v(A.ac("yyyy-MM-dd \u2013 kk:mm:ss",s).a9(0,new A.n(Date.now(),!1)),s,B.I,s,!0,$.bR().yz(B.z,12),s,s,s),s)],r),B.q,B.bN,B.n,s),s),new A.aV(B.aF,A.b_(A.a([new A.aV(B.Ol,new A.nT(A.aGU(s,s,new A.va("images/logo.png",1,s)),100,100,s,s),s),A.cL(A.v("Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",5,B.I,s,!0,$.bR().aT(B.y),s,s,s),1)],r),B.a1,B.o,B.n,s),s)],r),B.a1,s,B.o,B.n),5,B.ag),s)}}
+return new A.aV(B.aF,A.hn(A.bm(A.a([new A.aV(B.aF,A.b_(A.a([A.b_(A.a([A.v("Group: ",s,s,s,s,$.bR().aT(B.z),s,s,s),A.v("Everyone",s,s,s,s,$.bR().aT(B.y),s,s,s)],r),B.a1,B.o,B.n,s),new A.dc(1,B.aB,A.v(A.ac("yyyy-MM-dd \u2013 kk:mm:ss",s).a9(0,new A.n(Date.now(),!1)),s,B.I,s,!0,$.bR().yz(B.z,12),s,s,s),s)],r),B.q,B.bN,B.n,s),s),new A.aV(B.aF,A.b_(A.a([new A.aV(B.Ol,new A.nT(A.aGU(s,s,new A.va("assets/images/logo.png",1,s)),100,100,s,s),s),A.cL(A.v("Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups",5,B.I,s,!0,$.bR().aT(B.y),s,s,s),1)],r),B.a1,B.o,B.n,s),s)],r),B.a1,s,B.o,B.n),5,B.ag),s)}}
 A.A9.prototype={
 ac(){return new A.UB(["Groups"," ","All Events","Everyone","Events","Company News","Appreciations"],B.k)}}
 A.UB.prototype={
@@ -47361,7 +47361,7 @@ gyY(){var s=this.e
 return s===$?this.e="Active":s},
 aF(){this.aV()},
 N(a){var s,r,q,p=null,o=A.v("Personal Details",p,p,p,p,$.bR().aT(B.j),p,p,p),n=t.p
-o=A.hi(p,A.h3(A.b_(A.a([new A.aV(B.OA,new A.cu(B.al,p,B.a6,B.F,A.a([A.b_(A.a([A.A(p,new A.aV(B.aF,A.aFD("images/profile.png",B.qO),p),B.f,B.z,p,p,p,200,p,p,p,p,p,200)],n),B.q,B.o,B.n,p),new A.aV(B.Ow,A.b_(A.a([B.Qo],n),B.q,B.o,B.n,p),p)],n),p),p),new A.aV(B.On,A.bm(A.a([A.b_(A.a([B.a6U,B.a6N],n),B.q,B.o,B.n,p),A.b_(A.a([B.a6y,B.a6I],n),B.q,B.o,B.n,p),A.b_(A.a([B.a6G,B.a6R],n),B.q,B.o,B.n,p),A.b_(A.a([B.a6F,B.a6Z],n),B.q,B.o,B.n,p)],n),B.a1,p,B.o,B.n),p)],n),B.q,B.o,B.n,p),p,p,!1,B.ac),p,B.z,p,1,20,p,!0,o,B.z,B.z,p,p,0,!0,p,B.Q3,p,p,p,p,p,p,p,p)
+o=A.hi(p,A.h3(A.b_(A.a([new A.aV(B.OA,new A.cu(B.al,p,B.a6,B.F,A.a([A.b_(A.a([A.A(p,new A.aV(B.aF,A.aFD("assets/images/profile.png",B.qO),p),B.f,B.z,p,p,p,200,p,p,p,p,p,200)],n),B.q,B.o,B.n,p),new A.aV(B.Ow,A.b_(A.a([B.Qo],n),B.q,B.o,B.n,p),p)],n),p),p),new A.aV(B.On,A.bm(A.a([A.b_(A.a([B.a6U,B.a6N],n),B.q,B.o,B.n,p),A.b_(A.a([B.a6y,B.a6I],n),B.q,B.o,B.n,p),A.b_(A.a([B.a6G,B.a6R],n),B.q,B.o,B.n,p),A.b_(A.a([B.a6F,B.a6Z],n),B.q,B.o,B.n,p)],n),B.a1,p,B.o,B.n),p)],n),B.q,B.o,B.n,p),p,p,!1,B.ac),p,B.z,p,1,20,p,!0,o,B.z,B.z,p,p,0,!0,p,B.Q3,p,p,p,p,p,p,p,p)
 s=A.v("Employment",p,p,p,p,$.bR().aT(B.j),p,p,p)
 s=A.hi(p,A.b_(A.a([this.Zu(),A.b_(A.a([new A.RQ("Name",B.wi,"Manager",B.bz,p),new A.QH("Name",B.wi,"Manager",B.bz,p)],n),B.q,B.o,B.n,p)],n),B.q,B.o,B.n,p),p,B.z,p,1,20,p,!0,s,B.z,B.z,p,p,0,!0,p,B.Q6,p,p,p,p,p,p,p,p)
 r=A.v("Accounts & Statuatory",p,p,p,p,$.bR().aT(B.j),p,p,p)
@@ -47697,7 +47697,7 @@ return A.vS(A.A(p,A.DH(s,p,0/0,!0,!0,B.dy,!1,!0,!0,l,A.a([new A.mJ(A.a([A.E4(A.A
 $S:349}
 A.jc.prototype={
 N(a){var s=null
-return A.hn(new A.aV(B.OF,A.A(B.l,A.b_(A.a([A.A(s,s,B.f,B.M0,s,s,s,35,s,s,B.t7,s,s,5),A.A(s,A.v(this.c,s,B.q7,s,!1,$.aMV().fp(B.z,B.aa),s,s,s),B.f,s,s,B.II,s,s,s,s,B.Or,s,s,300)],t.p),B.q,B.o,B.n,s),B.f,s,s,s,s,50,s,s,s,s,s,1/0),s),5,B.ds)}}
+return A.hn(new A.aV(B.OF,A.A(B.l,A.b_(A.a([A.A(s,s,B.f,B.M0,s,s,s,35,s,s,B.t7,s,s,5),A.A(s,A.v(this.c,s,B.q7,s,!1,$.aMV().fp(B.z,B.aa),s,s,s),B.f,s,s,B.IH,s,s,s,s,B.Or,s,s,300)],t.p),B.q,B.o,B.n,s),B.f,s,s,s,s,50,s,s,s,s,s,1/0),s),5,B.ds)}}
 A.eR.prototype={
 gav(a){return new A.Rf(this.a,0,0)},
 ga3(a){var s=this.a,r=s.length
@@ -48291,7 +48291,7 @@ j.push(A.AA(h,new A.dJ(i,d,g,d),d))
 q=A.A(d,A.b_(j,B.q,B.bN,B.aU,d),B.f,d,d,q,d,k,d,d,l,d,d,m)
 b=A.ij(q,d,d,B.t,!0,c,d,d,B.a_)
 if(a.aa(t.U2)==null){e.a.toString
-c=A.A(d,d,B.f,d,d,B.IH,d,1,d,d,d,d,d,d)
+c=A.A(d,d,B.f,d,d,B.IG,d,1,d,d,d,d,d,d)
 b=new A.cu(B.al,d,B.a6,B.F,A.a([b,A.cG(8,c,d,d,0,0,d,d)],t.p),d)}c=A.bi(t.ui)
 if(!e.gni())c.F(0,B.aK)
 f=A.fk(B.hI,c,t.Pb)
@@ -104746,7 +104746,7 @@ B.Ie=new A.yD(0,"changedOccurrence")
 B.qF=new A.yD(1,"normal")
 B.If=new A.a1J(!1,127)
 B.qG=new A.a1K(127)
-B.Ih=new A.py("images/profile_pic.png",null,null)
+B.Ih=new A.py("assets/images/profile_pic.png",null,null)
 B.Ii=new A.tF(0,"begin")
 B.Ij=new A.tF(1,"middle")
 B.Ik=new A.tF(2,"end")
@@ -104810,26 +104810,26 @@ B.adu=new A.aA(88,1/0,36,1/0)
 B.qN=new A.aA(0,1/0,48,1/0)
 B.IF=new A.aA(48,1/0,48,1/0)
 B.ID=new A.aA(0,1/0,52,1/0)
-B.Ig=new A.py("images/wallpaper.png",null,null)
-B.IJ=new A.tJ(2,"cover")
-B.dT=new A.qt(3,"noRepeat")
-B.ia=new A.q6(1,"low")
-B.NP=new A.zA(B.Ig,null,B.IJ)
-B.H=new A.yR(0,"rectangle")
-B.IG=new A.bg(null,B.NP,null,null,null,null,null,B.H)
 B.A=new A.z(0)
+B.H=new A.yR(0,"rectangle")
 B.hN=new A.bg(B.A,null,null,null,null,null,null,B.H)
 B.kR=new A.z(4290624957)
 B.Is=new A.c0(B.kR,0,B.a8,B.Z)
 B.It=new A.cQ(B.x,B.x,B.Is,B.x)
-B.IH=new A.bg(null,null,B.It,null,null,null,null,B.H)
+B.IG=new A.bg(null,null,B.It,null,null,null,null,B.H)
 B.hB=new A.Ez(0,"clamp")
 B.M1=new A.z(2631854590)
 B.M2=new A.z(2632971519)
 B.j=new A.z(4294967295)
 B.TQ=A.a(s([B.M1,B.M2,B.j]),t.t_)
 B.QO=new A.uY(B.l,B.ed,B.hB,B.TQ,null,null)
-B.II=new A.bg(null,null,null,null,null,B.QO,null,B.H)
+B.IH=new A.bg(null,null,null,null,null,B.QO,null,B.H)
+B.Ig=new A.py("assets/images/wallpaper.png",null,null)
+B.IJ=new A.tJ(2,"cover")
+B.dT=new A.qt(3,"noRepeat")
+B.ia=new A.q6(1,"low")
+B.NP=new A.zA(B.Ig,null,B.IJ)
+B.II=new A.bg(null,B.NP,null,null,null,null,null,B.H)
 B.qO=new A.tJ(0,"fill")
 B.qP=new A.tJ(6,"scaleDown")
 B.eh=new A.yQ(0,"tight")
