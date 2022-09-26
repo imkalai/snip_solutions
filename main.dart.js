@@ -8523,7 +8523,7 @@ aoP:function aoP(a){this.a=a},
 aGG(){var s,r=new A.Qg($,!0,!1,new A.hD(A.a([],t.TH),t.sH),A.H(t.HE,t.d_))
 r.lq$=0
 s=t.Wo
-s=new A.AL(r,A.ow(0),A.a([],t.EH),A.em(t.X,t.xW),new A.fl(s),new A.fl(s),!1,!1)
+s=new A.AL(r,A.ow(1),A.a([],t.EH),A.em(t.X,t.xW),new A.fl(s),new A.fl(s),!1,!1)
 s.n8()
 return s},
 AL:function AL(a,b,c,d,e,f,g,h){var _=this
@@ -47560,10 +47560,10 @@ aD(){var s,r=this
 r.aM()
 s=r.gaae()
 r.e=s
-r.r=4
+r.r=1
 r.f=B.b.HT(s,new A.at8()).a},
 gaae(){var s=this
-return A.a([new A.fZ("Profile",B.u2,new A.asZ(s),!1),new A.fZ("Home",B.u2,new A.at_(s),!1),new A.fZ("Feeds",B.Q5,new A.at0(s),!1),new A.fZ("Tasks",B.Qd,new A.at1(s),!1),new A.fZ("Salary",B.Qf,new A.at2(s),!0),new A.fZ("Attendance",B.Q3,new A.at3(s),!1),new A.fZ("Job Logs",B.u5,new A.at4(s),!1),new A.fZ("Leave",B.u4,new A.at5(s),!1),new A.fZ("Document Center",B.Q0,new A.at6(s),!1),new A.fZ("Log Out",B.Q1,new A.at7(s),!1)],t.DO)},
+return A.a([new A.fZ("Profile",B.u2,new A.asZ(s),!1),new A.fZ("Home",B.u2,new A.at_(s),!0),new A.fZ("Feeds",B.Q5,new A.at0(s),!1),new A.fZ("Tasks",B.Qd,new A.at1(s),!1),new A.fZ("Salary",B.Qf,new A.at2(s),!1),new A.fZ("Attendance",B.Q3,new A.at3(s),!1),new A.fZ("Job Logs",B.u5,new A.at4(s),!1),new A.fZ("Leave",B.u4,new A.at5(s),!1),new A.fZ("Document Center",B.Q0,new A.at6(s),!1),new A.fZ("Log Out",B.Q1,new A.at7(s),!1)],t.DO)},
 a0i(a){var s,r=null,q=$.bp(),p=A.km(A.q("OK",r,r,r,r,r,r,q,r,r,r),new A.at9(a),r)
 q=A.q("Log Out",r,r,r,r,r,r,q.dr(B.dw,B.R),r,r,r)
 s=A.q("You have been logged out successfully",r,r,r,r,r,r,$.bp(),r,r,r)
